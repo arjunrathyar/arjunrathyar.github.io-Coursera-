@@ -1,5 +1,5 @@
-	<!DOCTYPE html>
-	<html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<title>Project</title>
@@ -10,5 +10,5 @@
 	<h1>Arjun Rathya R</h1>
 	</font>
 	</body>
-	</html>
+</html>
 	
